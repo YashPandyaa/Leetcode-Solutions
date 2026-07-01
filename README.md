@@ -14,6 +14,7 @@ Leetcode-Solutions/
 ├── 📂 LinkList/
 ├── 📂 Stack/
 ├── 📂 June-Daily-Challenge/
+├── 📂 July-Daily-Challenge/
 └── 📄 README.md
 ```
 
