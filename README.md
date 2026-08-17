@@ -8,11 +8,9 @@ A journey through Data Structures & Algorithms — one problem at a time, writte
 
 ```
 Leetcode-Solutions/
-├── 📂 Array/
-├── 📂 String/
-├── 📂 Math/
-├── 📂 LinkList/
-├── 📂 Stack/
+├── 📂 Easy
+├── 📂 Medium 
+├── 📂 Hard
 ├── 📂 August-Daily-Challenge/
 ├── 📂 June-Daily-Challenge/
 ├── 📂 July-Daily-Challenge/
